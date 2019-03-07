@@ -1,0 +1,7 @@
+main: 		1:96,000 
+		11X17 at 72dpi 
+		816px by 528 px - use Gimp to rescale image imp0rted from ArcGIS
+
+T2NR14W:	1:40,000
+		11x17 at 72dpi
+		817px by 529px
